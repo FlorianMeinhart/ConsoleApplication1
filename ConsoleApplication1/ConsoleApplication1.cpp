@@ -86,6 +86,7 @@ int main()
   obj();
   obj.Show();
 
+  //do something here
   system("dir");
 
 }
