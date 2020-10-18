@@ -3,5 +3,11 @@
 
 void CPrintHelloWorld::Show()
 {
-  std::cout << "There is nothing to show..." << std::endl;
+  std::cout << "There is a lot to show!" << std::endl;
 }
+
+void CPrintHelloWorld::SayHello()
+{
+  std::cout << "Hello!" << std::endl;
+}
+
