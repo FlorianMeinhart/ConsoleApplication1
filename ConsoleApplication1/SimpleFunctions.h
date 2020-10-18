@@ -17,4 +17,6 @@ public:
     std::cout << "Hello, world! " << __FILENAME__ << std::endl;
   }
   void Show();
+
+  void SayHello();
 };
